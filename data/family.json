@@ -1,0 +1,21 @@
+{
+  "shared_budget": 25000.0,
+  "members": [
+    {
+      "name": "krithik",
+      "role": "Admin"
+    },
+    {
+      "name": "eva",
+      "role": "Member"
+    },
+    {
+      "name": "ram",
+      "role": "Member"
+    },
+    {
+      "name": "gita",
+      "role": "Member"
+    }
+  ]
+}
