@@ -1,21 +1,21 @@
 {
-  "shared_budget": 25000.0,
+  "shared_budget": 50000.0,
   "members": [
     {
       "name": "krithik",
       "role": "Admin"
     },
     {
-      "name": "eva",
-      "role": "Member"
+      "name": "Priya",
+      "role": "Mother"
     },
     {
-      "name": "ram",
-      "role": "Member"
+      "name": "Keerthana",
+      "role": "Sister"
     },
     {
-      "name": "gita",
-      "role": "Member"
+      "name": "Ashok",
+      "role": "Brother"
     }
   ]
 }
