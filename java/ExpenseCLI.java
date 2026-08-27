@@ -12,7 +12,7 @@ import java.util.Map;
 
 public class ExpenseCLI {
     static class Expense {
-        String date; // YYYY-MM-DD
+        String date; 
         String category;
         double amount;
         String description;
