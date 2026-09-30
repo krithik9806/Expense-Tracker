@@ -28,7 +28,7 @@ from utils.data_handler import (
     save_family,
 )
 from collections import defaultdict
-import importlib
+
 
 def dashboard_window(salary, master=None):
     # Dynamically import matplotlib modules to avoid static import warnings in some IDE linters
